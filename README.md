@@ -1,4 +1,4 @@
-# Regio v2
+# Regio
 
 Eine moderne, regionale Web-App als MVP für die Darstellung von Services, Orten und Aktivitäten in einer Region.
 
